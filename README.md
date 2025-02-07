@@ -1,5 +1,8 @@
 # Биомедицинские нанотехнологии и компьютерное зрение (Computer Vision)
 
+Папка с тестовыми картинками.
+https://disk.yandex.ru/client/disk/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20%D1%87%D0%B8%D1%81%D0%BB%D0%B0
+
 <p align="center"><img width='50%' src='img/cell_move_short.gif'></p>
 
 > Репозиторий содержит программный код и датасеты для учебного курса по Computer Vision
